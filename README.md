@@ -1,9 +1,5 @@
 Hi there 👋
 
-
-
-- 🔭 I’m currently studying on Electrical Engineering Gadjah Mada University
-- 🌱 I’m currently learning C++ and Python
-- 🤔 I’m looking for help with Data Science
-- 📫 How to reach me: you can email roalgon149@gmail.com
-- ⚡ Fun fact: ...
+- 🏫 1st Year Electrical Engineering at Universitas Gadjah Mada
+- 🔍 I’m currently interested in C++ and Python and trying to explore Data Science
+- 📫 You can email roalgon149@gmail.com
