@@ -1,7 +1,7 @@
 # <p align="center">Hi 👋, I'm Roja Al Afgoni</p>
 **<p align="center">Electrical Engineering Student at Gadjah Mada University | Highly Interested in Data Science<p/>**
 
-- 🔍 I'm currently learning Data Science
+- 🔍 I'm currently learning C++ and Python
 - 📫 Reachable at roalgon149@gmail.com
 
 **Connect with me :**
